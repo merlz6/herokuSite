@@ -1,0 +1,25 @@
+{
+  "name": "herokuSite",
+  "version": "1.0.0",
+  "description": "demonstrate heroku hosting with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merlz6/herokuSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merlz6/herokuSite/issues"
+  },
+  "homepage": "https://github.com/merlz6/herokuSite#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.3.2"
+  }
+}
